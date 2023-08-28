@@ -1,5 +1,14 @@
 Repositório com o objetivo de reunir recomendações de apps para aprendizado autodidata do idioma inglês. A ideia é reunir apps com versão gratuita e descrevê-los de forma breve, indicando seu funcionamento, tempo de uso recomendado, screenshots e links de acesso/download. 
 
+## Estrutura de pastas
+
+- many-skills: aplicativos que praticam diversas habilidades;
+- listening: aplicativos que têm foco na prática do listening;
+- reading: aplicativos que têm foco na prática do reading;
+- vocabulary: aplicativos que têm foco na aquisição de vocabulário;
+- writing: aplicativos que têm foco na prática da escrita de vocabulário ativo;
+- screenshots: prints das telas dos apps.
+
 ## Como contribuir:
 
 - Verifique se o app possui uma versão gratuita;
