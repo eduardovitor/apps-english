@@ -15,7 +15,25 @@ O aplicativo pode ser usado por qualquer tempo desejado. Eu particularmente reco
 
 ## Screenshot
 
-![English Listening Step by Step screenshot](../screenshots/listening_step_by_step.png)
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="../screenshots/listening_step_by_step_3.jpeg" alt=""/><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="../screenshots/listening_step_by_step_1.jpeg" alt=""/><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="../screenshots/listening_step_by_step_2.jpeg" alt=""/><br>
+      </a>
+    </td>
+</table>
+
 ## Onde baixar?
 
 - [English Listening Step by Step Android](https://play.google.com/store/apps/details?id=com.ocoder.learn.english.free&hl=pt_BR&gl=US)

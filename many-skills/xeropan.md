@@ -17,7 +17,20 @@ O aplicativo na versão gratuita só permite o uso por cinco minutos. No entanto
 
 ## Screenshot
 
-![Xeropan](../screenshots/xeropan_screenshot.png)
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="../screenshots/xeropan_screenshot_1.jpeg" alt=""/><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="../screenshots/xeropan_screenshot_2.jpeg" alt=""/><br>
+      </a>
+    </td>
+</table>
+
 ## Onde baixar?
 
 - [Xeropan Android](https://play.google.com/store/apps/details?id=com.application.xeropan)
