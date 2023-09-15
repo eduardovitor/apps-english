@@ -19,4 +19,4 @@ Repositório com o objetivo de reunir recomendações de apps para aprendizado a
 
 - Todos os PR's serão revisados antes de serem adicionados;
 
-- Por ultimo mais não menos importante *Deixe uma estrela nesse repositorio (Star) ⭐*;
+- Por último mas não menos importante *Deixe uma estrela nesse repositório (Star) ⭐*;
